@@ -29,6 +29,7 @@ FoxStream, **Xtream Codes** ve **M3U** altyapılarını destekleyen, hem mobil h
   <img src="https://raw.githubusercontent.com/simurgulgen/FoxStream/main/assets/Fox-Audio.svg" width="200" alt="Fox Audio">
   <img src="https://raw.githubusercontent.com/simurgulgen/FoxStream/main/assets/Fox-Programmer.svg" width="200" alt="Fox Programmer">
   <img src="https://raw.githubusercontent.com/simurgulgen/FoxStream/main/assets/Fox-SpecialEffects.svg" width="200" alt="Fox Special Effects">
+  <img src="https://raw.githubusercontent.com/simurgulgen/FoxStream/main/assets/Fox-Hello.svg" width="250" alt="Fox Hello">
 </div>
 
 ## 📥 Kurulum
@@ -38,9 +39,6 @@ FoxStream, **Xtream Codes** ve **M3U** altyapılarını destekleyen, hem mobil h
 3. İndirdiğiniz APK dosyasını açarak Android cihazınıza kurun.
 4. **FoxStream** uygulamasını açın ve içeriğin tadını çıkarın!
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/simurgulgen/FoxStream/main/assets/Fox-Hello.svg" width="250" alt="Fox Hello">
-</div>
 
 ---
 <div align="center">
